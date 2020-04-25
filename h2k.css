@@ -1,0 +1,45 @@
+#header {
+	background: url("imgs/field.jpg");
+	/* background: url("imgs/field.jpg") center center / cover no-repeat; */
+	background-size: 1500px;
+	background-repeat: fill;
+	background-position: center;
+	color: black;
+}
+.navbar-brand {
+	font-family: 'Viga', sans-serif;
+	color: black;
+}
+.display-3 {
+	font-family: 'Rock Salt', cursive;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #d3cebc;
+}
+.lead {
+	font-family: 'Fira Sans Extra Condensed', sans-serif, 500;
+	font-weight: 700; 
+	-webkit-text-stroke-width: .7px;
+	-webkit-text-stroke-color: #d3cebc;
+	padding-top: 5%;
+}
+.navbar-light {
+	background:#f3eede;
+}
+.video {
+	background-position: center;
+}
+.navbar-name {
+	font-family: 'Viga', sans-serif;
+	padding-top: 19%;
+}
+.welcome {
+
+	font-family: 'Molengo', sans-serif;
+	text-align: center;
+	padding-top: 37%;
+}
+#gallery {
+	overflow: auto;
+}
+/*<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+*/
